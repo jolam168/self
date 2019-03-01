@@ -3,6 +3,7 @@
 日本気象株式会社にて、アプリ運用や保守と開発担当を２年経験して新規企画まいりました。
 
 [Linkedin:](https://www.linkedin.com/in/jo-lam-69815811b/)
+[Medium:](https://medium.com/@jolam168)
 
 雨降りアラートアップデート
 ![Before]
@@ -10,6 +11,6 @@
 ![After]
 (device-2018-10-26-174837.png)
 
-## スマパス ダウンロードリンク
+## スマパス ダウンロードリング
 
 
